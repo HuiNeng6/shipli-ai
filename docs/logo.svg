@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#0ea5e9" opacity="0.1"/>
+  
+  <!-- Ship hull -->
+  <path d="M50 130 L100 160 L150 130 L140 145 L60 145 Z" fill="#0369a1"/>
+  
+  <!-- Ship body -->
+  <path d="M60 100 L100 80 L140 100 L140 130 L100 145 L60 130 Z" fill="#0284c7"/>
+  
+  <!-- Mast -->
+  <rect x="97" y="50" width="6" height="80" fill="#075985"/>
+  
+  <!-- Sail -->
+  <path d="M103 55 L103 110 L140 95 Z" fill="#ffffff"/>
+  <path d="M97 55 L97 110 L65 85 Z" fill="#e0f2fe"/>
+  
+  <!-- Checkmark badge -->
+  <circle cx="145" cy="55" r="25" fill="#10b981"/>
+  <path d="M132 55 L140 65 L158 45" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text: SHIPLI -->
+  <text x="100" y="185" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700" fill="#0369a1">SHIPLI</text>
+</svg>
